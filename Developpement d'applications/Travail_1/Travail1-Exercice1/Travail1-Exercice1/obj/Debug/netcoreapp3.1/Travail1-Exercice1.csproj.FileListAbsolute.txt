@@ -1,0 +1,28 @@
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.exe
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.deps.json
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.runtimeconfig.json
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.runtimeconfig.dev.json
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.dll
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.pdb
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.csproj.AssemblyReference.cache
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.AssemblyInfoInputs.cache
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.AssemblyInfo.cs
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.dll
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.pdb
+C:\Users\under\Documents\Travail CEGEP\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.genruntimeconfig.cache
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.exe
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.deps.json
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.runtimeconfig.json
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.runtimeconfig.dev.json
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.dll
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\bin\Debug\netcoreapp3.1\Travail1-Exercice1.pdb
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.csproj.AssemblyReference.cache
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.AssemblyInfoInputs.cache
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.AssemblyInfo.cs
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.csproj.CoreCompileInputs.cache
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.dll
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.pdb
+C:\Users\under\Documents\Travail CEGEP\Developpement d'applications\Travail_1\Travail1-Exercice1\Travail1-Exercice1\obj\Debug\netcoreapp3.1\Travail1-Exercice1.genruntimeconfig.cache
